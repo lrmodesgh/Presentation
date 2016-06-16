@@ -1,0 +1,22 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Battery - About Me :)}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{7}{0}{2}
+\beamer@sectionintoc {3}{Construction}{10}{0}{3}
+\beamer@sectionintoc {4}{Chemical Action}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{During Charging}{20}{0}{4}
+\beamer@subsectionintoc {4}{2}{During Discharging}{22}{0}{4}
+\beamer@sectionintoc {5}{Electrical Action}{24}{0}{5}
+\beamer@subsectionintoc {5}{1}{During Charging}{26}{0}{5}
+\beamer@subsectionintoc {5}{2}{During Discharging}{29}{0}{5}
+\beamer@sectionintoc {6}{Battery Capacity}{32}{0}{6}
+\beamer@sectionintoc {7}{Internal Resistance}{35}{0}{7}
+\beamer@sectionintoc {8}{Electrical Equivalent}{38}{0}{8}
+\beamer@sectionintoc {9}{Automotive Battery Care}{39}{0}{9}
+\beamer@subsectionintoc {9}{1}{Troubles}{42}{0}{9}
+\beamer@sectionintoc {10}{Analysis of Degradation}{55}{0}{10}
+\beamer@subsectionintoc {10}{1}{Causal Tree Analysis}{58}{0}{10}
+\beamer@subsectionintoc {10}{2}{Fault Tree Analysis}{63}{0}{10}
+\beamer@sectionintoc {11}{Instructions}{65}{0}{11}
+\beamer@subsectionintoc {11}{1}{Charging}{66}{0}{11}
+\beamer@subsectionintoc {11}{2}{Testing}{73}{0}{11}
+\beamer@sectionintoc {12}{credits}{80}{0}{12}
